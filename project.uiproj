@@ -1,0 +1,6 @@
+{
+  "Name": "Invoice_segregation",
+  "ProjectType": "Process",
+  "Description": "Invoice segregation using switch based on company code and moving to dedicated folder",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,8 @@
+.local/
+.tm/
+.objects/
+.screenshots/
+*.log
+*.nupkg
+*.user
+project.json.bak
